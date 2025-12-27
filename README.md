@@ -64,4 +64,4 @@ Ready to build lasting habits? Simplify your path to better health.
 
 ---
 
-&copy; 2025 BetterSelf.fitness Fitness under GoodFitAI. All rights reserved. | [Privacy Policy](privacy-policy.md) | [Terms of Service](terms.md)
+&copy; 2025 BetterSelf.fitness Fitness under GoodFitAI. All rights reserved. | [Privacy Policy](privacy_policy.md) | [Terms of Service](terms.md)
